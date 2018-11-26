@@ -1,0 +1,19 @@
+* alignment
+Given two sequences, an alignment is a correspondence between substrings of the two sequences.
+
+* coreference
+Similar strings that refer to the same entity
+
+Ex: 
+Stanford President John Hennessy
+Stanford University President John Hennessy
+
+* edit distance
+Minimum edit distance between two strings is defined as the minimum number of
+editing operations (operations like insertion, deletion, substitution) needed to
+transform one string into another.
+
+* Levenshtein distance
+each of insert, delete, and substitute has a cost of 1
+
+
